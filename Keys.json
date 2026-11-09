@@ -1,0 +1,26 @@
+{
+  "keys": {
+    "eee94b73ac344d88b6d10f9d881791f54308c8c10399e343b76bfbd33f81c9c4": {
+      "name": "Client1",
+      "created": "2026-11-09",
+      "active": true
+    },
+    "c467c0ea9d9e66187b6a7127373ff20b8d7e273323330deabe922531ae8f0744": {
+      "name": "Client1",
+      "created": "2026-11-09",
+      "active": true
+    },
+    "f293efed0b10997938aede6be8642a1ff9ec014873f8854f8645bdd51b3e6727": {
+      "name": "Client2",
+      "created": "2026-11-09",
+      "expires": "2026-12-09",
+      "active": true
+    },
+    "bc718f2089f45040aca21f092d46c56d00e867e555322c537accd95980092d39": {
+      "name": "ADMIN-PRIVE",
+      "created": "2026-11-09",
+      "active": true,
+      "admin": true
+    }
+  }
+}
