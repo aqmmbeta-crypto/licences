@@ -1,2 +1,0 @@
-# AQMM - Pas besoin de librairie, serveur en Python de base
-# Ce fichier est juste là pour que Render ne plante pas
