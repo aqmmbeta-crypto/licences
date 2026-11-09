@@ -1,0 +1,40 @@
+{
+  "cles": [
+    {
+      "nom": "ADMIN-PRIVE",
+      "cle": "AQMM-ADMIN-AYMD-USGL-VPEV-E9XK",
+      "hash": "bc718f2089f45040aca21f092d46c56d00e867e555322c537accd95980092d39",
+      "banni": false
+    },
+    {
+      "nom": "Client1",
+      "cle": "GQ-4EAQ-XZH3-7YTQ-KHQQ",
+      "hash": "a9247cba1b8964c4fd7232995913cf5afdcf5a5b37a1256856b41a10006289a8",
+      "banni": false
+    },
+    {
+      "nom": "Client2",
+      "cle": "GQ-2NYZ-XLNK-D7ZT-TYKT",
+      "hash": "70fc8f2680de7ec951411d7933ff2974182909cfe6232d76d755eada7f10a694",
+      "banni": false
+    },
+    {
+      "nom": "Client3",
+      "cle": "GQ-6EJW-X436-VYEN-SUGR",
+      "hash": "3ef12975fc7d80e8a2d757dbc77932df3b6020810cf23477f062be0b674f4af4",
+      "banni": false
+    },
+    {
+      "nom": "Client4",
+      "cle": "GQ-G5JK-LGQR-3M6M-QQNQ",
+      "hash": "373550ced89d02e59a78af3f9f554ca3e71f69c7bd266f3f909f8ee7d52a5ab9",
+      "banni": false
+    },
+    {
+      "nom": "Client5",
+      "cle": "GQ-YQDW-AGZD-WM2X-UK7E",
+      "hash": "1131eb40fae97357f1b66c1d352eb8362ff190d6370dfeac729ce867814142bc",
+      "banni": false
+    }
+  ]
+}
